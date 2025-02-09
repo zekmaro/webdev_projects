@@ -1,3 +1,15 @@
 .class-header {
 	color: purple;
 }
+
+html {
+	background-color: #FFEDFA;
+}
+
+h3 {
+    background-color: #DD88CF;
+    display: block;
+    padding: 5px 10px;
+    border-radius: 5px;
+	width: fit-content;
+}
