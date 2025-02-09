@@ -1,15 +1,25 @@
-.class-header {
-	color: purple;
-}
 
 html {
 	background-color: #FFEDFA;
+	
 }
 
-h3 {
+.wolf_img {
+	width: 300px;
+}
+
+.matrix_img {
+	width: 300px;
+}
+
+.inception_img {
+	width: 300px;
+}
+
+/* h3 {
     background-color: #DD88CF;
     display: block;
     padding: 5px 10px;
     border-radius: 5px;
 	width: fit-content;
-}
+} */
